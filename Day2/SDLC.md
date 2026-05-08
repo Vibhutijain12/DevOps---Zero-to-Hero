@@ -5,10 +5,10 @@ SDLC (Software Development Life Cycle) is a structured process for planning, bui
 #### Key Phases of the SDLC: 
 
 **Planning and Requirements Gathering -**  Defining the project scope and understanding customer needs, such as launching a new kids' clothing feature for an e-commerce platform  
-**Defining and Designing -** Converting requirements into formal documentation like the Software Requirement Specification (SRS), followed by High-Level Design (HLD) and Low-Level Design (LLD).
-**Building (Development) -** Developers write the application code and commit it to a shared repository like Git.
-**Testing -** The Quality Engineering (QE) team validates the application in staging environments to ensure product quality.
-**Deployment -** Pushing the validated software to the production environment for end-users.
+**Defining and Designing -** Converting requirements into formal documentation like the Software Requirement Specification (SRS), followed by High-Level Design (HLD) and Low-Level Design (LLD)
+**Building (Development) -** Developers write the application code and commit it to a shared repository like Git
+**Testing -** The Quality Engineering (QE) team validates the application in staging environments to ensure product quality
+**Deployment -** Pushing the validated software to the production environment for end-users
 
 * The role of DevOps - 
 
