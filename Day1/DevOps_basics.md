@@ -12,11 +12,14 @@ Ideally, it should take hours/1-2 days. Ability to deliver the application effic
 
 Definition - DevOps is a process of improving the application delivery by ensuring there is proper automation, quality, monitoring, and continuous testing.
 
-**1** Automation - Reducing manual efforts to speed up the processes. 
-**2** Quality - Ensuring the product meets the high standards.
-**3** Monitoring - Keeping track of system performance and health. 
-**4** Continuous Testing - test the application to ensure that it is bug-free and working seamlessly. 
-       
+**1.** Automation - Reducing manual efforts to speed up the processes. 
+
+**2.** Quality - Ensuring the product meets the high standards.
+
+**3.** Monitoring - Keeping track of system performance and health.
+
+**4.** Continuous Testing - test the application to ensure that it is bug-free and working seamlessly.
+
 #### Why DevOps? - 
 When there was no DevOps concept, companies used to deploy their application from a local server to production manually by taking help from different team members, like the system administrator, build and release engineer, and server administrator.
 
