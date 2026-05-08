@@ -36,17 +36,21 @@ Emphasize your understanding of the four pillars (automation, quality, monitorin
 * Check server health
 * Monitor CPU, RAM, disk, and network usage
 * Watch application performance and uptime
+
 **2** Managing CI/CD Pipelines
 * Automate build, test, and deployment
 * Fix failed pipelines
+
 **3** Container Management
 * Build Docker images
 * Run and manage containers
 * Troubleshoot container issues
-**3** Cloud Infrastructure 
+
+**4** Cloud Infrastructure 
 * Manage AWS/Azure/GCP resources
-* Configure servers, storage, and networking. 
-**4** Automation
+* Configure servers, storage, and networking
+
+**5** Automation
 * Bash
 * Python
 
